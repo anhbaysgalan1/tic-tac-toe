@@ -2,7 +2,7 @@
 Tic-Tac-Toe дээр Minimax AI алгоритмын хэрэгжилт 
 
 <p align="center">
-	<img src="preview/minimax_img.png"></img>
+	<img src="https://github.com/anhbaysgalan1/tic-tac-toe/blob/master/preview/minimax_img.png"></img>
 </p>
 
 ## Оршил
@@ -154,7 +154,7 @@ def minimax(state, depth, player):
 Below, the best move is on the middle because the max value is on 2nd node on left. Хамгийн шилдэг үйлдэл нь дунд нь байгаа учир нь max утга нь 2 дох зангилааны зүүн хэсэгт байрлаж байгаа
 
 <p align="center">
-	<img src="preview/tic-tac-toe-minimax-game-tree.png"></img>
+	<img src="https://github.com/anhbaysgalan1/tic-tac-toe/blob/master/preview/tic-tac-toe-minimax-game-tree.png"></img>
 </p>
 
 Хэрвээ сайн харвал depth нь боардны боломжит бүх үйлдэлтэй тэнцүү.
@@ -162,7 +162,7 @@ Below, the best move is on the middle because the max value is on 2nd node on le
 Тоглоомын мод:
 
 <p align="center">
-	<img src="preview/simplified-g-tree.png"></img>
+	<img src="https://github.com/anhbaysgalan1/tic-tac-toe/blob/master/preview/simplified-g-tree.png"></img>
 </p>
 
 Энэхүү мод нь 11 зангилаатай. Бүтэн тоглоомын мод нь 549.946 зангилаатай! Та статик global хувьсагч бичиж тэрийгээ ихэсгэж багасган minimax алгоримтыг function болгон дээр дуудаж ажиллуулах боломжтой.
